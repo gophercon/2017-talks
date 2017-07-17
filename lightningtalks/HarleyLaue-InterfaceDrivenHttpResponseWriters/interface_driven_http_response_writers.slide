@@ -1,0 +1,61 @@
+Interface Driven HTTP Responses
+GopherCon 2017 Lightning Talk
+15 Jul 2017
+
+Harley Laue
+Software Engineer, Billups
+losinggeneration@gmail.com
+https://github.com/losinggeneration
+@losnggeneration
+
+* Status Quo
+
+Most response writers follow something like
+.code interface_driven_http_response_writers/status_quo.go
+
+* Can we do better?
+
+* What if the response writer was able to look something like this:
+.code interface_driven_http_response_writers/interface_writer.go
+
+* Read this
+
+*** Functional options for friendly APIs
+
+.link https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis
+
+
+* What else can this do?
+
+* Write headers
+.code interface_driven_http_response_writers/headers.go
+
+* Set a status code
+.code interface_driven_http_response_writers/status_code.go
+
+* Set a Content-Type
+.code interface_driven_http_response_writers/content_type.go
+
+* Set Content-Type & Marshal a value
+.code interface_driven_http_response_writers/accept.go
+
+* Look at the Accept header and choose the correct marshaller
+.code interface_driven_http_response_writers/acceptable.go
+
+* Example
+.code interface_driven_http_response_writers/example.go
+
+* Demo
+
+* Is it worth it?
+
+Pros
+
+- A consistent API for writing data of about any type
+- You can still have functions like WriteJSON that call Write with some defaults
+- Allows data transformations just prior to writing the response
+
+Cons
+
+- Order of parameters matter for Responsers that transform & for some operations like WriteHeader
+- This implementation was created for this talk
