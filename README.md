@@ -18,3 +18,4 @@ Please submit a PR with your slides in a subdirectory named like this:
 | [Rhys Hiltner](https://github.com/rhysh) | [An Introduction to "go tool trace"](https://speakerdeck.com/rhysh/an-introduction-to-go-tool-trace) | |
 | [Russ Cox](https://github.com/rsc) | The Future of Go (blog form: “[Toward Go 2](https://blog.golang.org/toward-go2)”) | |
 | [Waldemar Quevedo](https://github.com/wallyqs) | [Writing Networking Clients in Go](https://wallyqs.github.io/gophercon-2017-nats-talk/) | |
+| [Jon Bodner](https://github.com/jonbodner) |  [Runtime Generated, Typesafe, and Declarative -- Pick any Three](https://github.com/jonbodner/proteus-talk/raw/master/Proteus%20Talk%20slides%20embiggened.pdf) | [Source](https://github.com/jonbodner/proteus-talk) |
