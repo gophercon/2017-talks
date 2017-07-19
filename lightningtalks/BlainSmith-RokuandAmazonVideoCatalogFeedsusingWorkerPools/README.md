@@ -1,0 +1,1 @@
+See [http://go-talks.appspot.com/github.com/blainsmith/talks/gophercon-lightning-talk-2017/lightning-talk.slide](http://go-talks.appspot.com/github.com/blainsmith/talks/gophercon-lightning-talk-2017/lightning-talk.slide)
