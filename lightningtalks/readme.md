@@ -20,8 +20,8 @@
 
 ## Block 2: 1:30 PM - 3:00 PM
 
-| Speaker       | Slide Deck | Source |
-| ------------- | ---------- | ------ |
+| Speaker       | Slide Deck |
+| ------------- | ---------- |
 | Aarti Parikh | A tale of two chat servers |
 | Marc-Antoine Ruel | periph.io: a lean performant hardware library |
 | Darren McCleary | Beating GCP's MapReduce with Go at The New York Times Games Team |
@@ -35,8 +35,8 @@
 
 ## Block 3: 3:30 PM - 5:00 PM
 
-| Speaker       | Slide Deck | Source |
-| ------------- | ---------- | ------ |
+| Speaker       | Slide Deck |
+| ------------- | ---------- |
 | Sharon Allsup | Ultimate Coffee:  It tastes as good as it smells |
 | Blain Smith | [Generating Hundreds of Video Catalog Feeds in Seconds](BlainSmith-RokuandAmazonVideoCatalogFeedsusingWorkerPools) |
 | Vladimir Vivien | Calling Go Functions from Other Languages |
