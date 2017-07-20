@@ -1,0 +1,2 @@
+- For the slides, [see this repository](https://github.com/byt3smith/talks/tree/master/2017/gophercon)
+- For the presentation, [see go-talks](http://go-talks.appspot.com/github.com/byt3smith/talks/2017/gophercon/talk.slide#1)
