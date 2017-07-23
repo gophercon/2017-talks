@@ -6,7 +6,7 @@
 | ------------- | ---------- |
 | Daniel Selans | Distributed Remote Monitoring in Go |
 | Harley Laue | [Interface Driven HTTP Response Writers](HarleyLaue-InterfaceDrivenHttpResponseWriters/) |
-| Sukrit Handa | Introduction to Hyperledger Fabric: How would Gophers vote on a president? |
+| Sukrit Handa | [Introduction to Hyperledger Fabric: How would Gophers vote for a president?](SukritHanda-IntroToHyperledgerFabric/) |
 | Landon Jones | AI and Go II: Time For Action |
 | Tim Burks | A Go Platform for Polyglot REST API Code Generation |
 | Pete Garcin | [Building an ML-Powered Game AI Using TensorFlow in Go](PeteGarcin-BuildingMLPoweredGameAIwithTensorFlow/) |
