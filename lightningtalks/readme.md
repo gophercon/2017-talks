@@ -26,7 +26,7 @@
 | Marc-Antoine Ruel | periph.io: a lean performant hardware library |
 | Darren McCleary | Beating GCP's MapReduce with Go at The New York Times Games Team |
 | Michael Stapelberg | [RobustIRC](MichaelStapelberg-RobustIRC/) |
-| Chris Short | Golang to the rescue: Saving DevOps from TLS turmoil |
+| [Chris Short](https://github.com/chris-short) | [Golang to the rescue: Saving DevOps from TLS turmoil](ChrisShort-GolangToTheRescue_SavingDevOpsFromTLSTurmoil/) |
 | Ramya Rao | [Go with Visual Studio Code](Ramya%20Rao%20-%20Go%20with%20VS%20Code/) |
 | Emile Vauge | Effective ingress traffic management with Traefik |
 | Matt Layher | Ethernet and Go |
