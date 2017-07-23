@@ -4,14 +4,14 @@
 
 | Speaker       | Slide Deck |
 | ------------- | ---------- |
-| Daniel Selans | Distributed Remote Monitoring in Go |
+| Daniel Selans | [Distributed Remote Monitoring in Go](DanielSelans-DistributedMonitoringWith9volt) |
 | Harley Laue | [Interface Driven HTTP Response Writers](HarleyLaue-InterfaceDrivenHttpResponseWriters/) |
 | Sukrit Handa | Introduction to Hyperledger Fabric: How would Gophers vote on a president? |
 | Landon Jones | AI and Go II: Time For Action |
 | Tim Burks | A Go Platform for Polyglot REST API Code Generation |
 | Pete Garcin | [Building an ML-Powered Game AI Using TensorFlow in Go](PeteGarcin-BuildingMLPoweredGameAIwithTensorFlow/) |
 | Nyah Check | Becoming a better hacker, lessons learned from Poetry |
-| Bryan C. Mills | An overview of sync.Map |
+| Bryan C. Mills | [An overview of sync.Map](BryanCMills-AnOverviewOfSyncMap) |
 | Joey Geiger | [Regular expressions, do you need them?](JoeyGeiger-RegexpDoYouNeedIt/) |
 | Aditya Mukerjee | Translating Go to Other (Human) Languages, and Back Again |
 | Carolyn Van Slyck | [go dep in 10 minutes](CarolynVanSlyck-DepIn10/) |
