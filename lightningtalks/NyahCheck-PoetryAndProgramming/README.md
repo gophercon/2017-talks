@@ -6,4 +6,4 @@ Nyah Check
 
 GitHub: [@Ch3ck](https://github.com/Ch3ck)
 
-Twitter: [@nyah_check])(https://twitter.com/nyah_check)
+Twitter: [@nyah_check](https://twitter.com/nyah_check)
