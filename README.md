@@ -24,7 +24,7 @@ Please submit a PR with your slides in a subdirectory named like this:
 | ----------- | ----------- | ---------- | ----- | ------ |
 | 11:45 AM - 12:30 PM | [Scott Mansfield](https://github.com/ScottMansfield) | [Creating a Custom Serialization Format](ScottMansfield-CreatingACustomSerializationFormat) | [Video](https://www.youtube.com/watch?v=PdtsV1OOkKc&index=12&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9) | |
 | 2:00 PM - 2:45 PM | [David Crawshaw](https://github.com/crawshaw) | Go Build Modes | [Video](https://www.youtube.com/watch?v=x-LhC-J2Vbk&index=8&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9) | |
-| 2:55 PM - 3:40 PM | [Fatih Arslan](https://github.com/fatih) | [Building a go tool to modify struct tags](FatihArslan-WritingAToolToModifyStructTags) | [Video](https://www.youtube.com/watch?v=bUznDnBboCs&index=5&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9) | [Source](https://github.com/fatih/gomodifytags) |
+| 2:55 PM - 3:40 PM | [Fatih Arslan](https://github.com/fatih) | [Building a go tool to modify struct tags](FatihArslan-WritingAToolToModifyStructTags) | [Video](https://www.youtube.com/watch?v=T4AIQ4RHp-c) | [Source](https://github.com/fatih/gomodifytags) |
 
 #### Ballroom 1D
 
@@ -40,7 +40,7 @@ Please submit a PR with your slides in a subdirectory named like this:
 | ----------- | ----------- | ---------- | ----- | ------ |
 | 11:45 AM - 12:30 PM | [Filippo Valsorda](https://github.com/FiloSottile) | [Encrypting the Internet with Go](FilippoValsorda-EncryptingTheInternet) | [Video](https://www.youtube.com/watch?v=CB_VfgwPmxQ&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9&index=7) | |
 | 2:00 PM - 2:45 PM | [Kris Nova](https://github.com/kris-nova) | [Valuable Lessons in Over-Engineering the Core of Kubernetes kops](KrisNova-OverEngineeringTheCoreOfKubernetesKops) | [Video](https://www.youtube.com/watch?v=IiYHDDz_7mE&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9&index=10) | |
-| 2:55 PM - 3:40 PM | [Ian Schenck](https://github.com/ianschenck) | [Operability in Go](https://speakerdeck.com/ianschenck/operability-in-go) | [Video](https://www.youtube.com/watch?v=SIl3wi1iWPE&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9&index=23)| |
+| 2:55 PM - 3:40 PM | [Ian Schenck](https://github.com/ianschenck) | [Operability in Go](IanSchenck-OperabilityInGo) | [Video](https://www.youtube.com/watch?v=SIl3wi1iWPE&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9&index=23)| |
 
 ### Day 2
 
