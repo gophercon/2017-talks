@@ -9,8 +9,8 @@
 | Sukrit Handa | [Introduction to Hyperledger Fabric: How would Gophers vote for a president?](SukritHanda-IntroToHyperledgerFabric/) | [Video](https://www.youtube.com/watch?v=yWTWKqYQ8Zk&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=8) |
 | Landon Jones | AI and Go II: Time For Action | [Video](https://www.youtube.com/watch?v=imsOYgv3HkU&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=4) |
 | Tim Burks | A Go Platform for Polyglot REST API Code Generation | [Video](https://www.youtube.com/watch?v=5bm1r6cjD-c&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=18) |
-| Pete Garcin | [Building an ML-Powered Game AI Using TensorFlow in Go](PeteGarcin-BuildingMLPoweredGameAIwithTensorFlow/) |
-| Nyah Check | Becoming a better hacker, lessons learned from Poetry | [Video](https://www.youtube.com/watch?v=nsFcUn-RBuI&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=7) |
+| Pete Garcin | [Building an ML-Powered Game AI Using TensorFlow in Go](PeteGarcin-BuildingMLPoweredGameAIwithTensorFlow/) | [Video](https://www.youtube.com/watch?v=oiorteQg9n0&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=10) |
+| Nyah Check | [Becoming a better hacker, lessons learned from Poetry](NyahCheck-PoetryAndProgramming) | [Video](https://www.youtube.com/watch?v=nsFcUn-RBuI&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=7) |
 | Bryan C. Mills | [An overview of sync.Map](BryanCMills-AnOverviewOfSyncMap) | [Video](https://www.youtube.com/watch?v=C1EtfDnsdDs&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=21) |
 | Joey Geiger | [Regular expressions, do you need them?](JoeyGeiger-RegexpDoYouNeedIt/) | [Video](https://www.youtube.com/watch?v=xAZfWVBhEs4&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=3) |
 | Aditya Mukerjee | Translating Go to Other (Human) Languages, and Back Again | [Video](https://www.youtube.com/watch?v=oDFerBdr2J0&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=14) |
