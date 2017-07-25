@@ -79,4 +79,4 @@ Please submit a PR with your slides in a subdirectory named like this:
 
 ### Lightning Talks
 
-[Click here](lightningtalks/README.md)
+[Click here](lightningtalks/readme.md)
