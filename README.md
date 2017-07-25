@@ -80,3 +80,8 @@ Please submit a PR with your slides in a subdirectory named like this:
 ### Lightning Talks
 
 [Click here](lightningtalks/README.md)
+
+### Extras
+
+[Go Contributors Workshop Slide Deck](https://goo.gl/pjeuFg)
+[Go Tooling Workshop](http://github.com/campoy/go-tooling-workshop) by Francesc Campoy
