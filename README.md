@@ -58,7 +58,7 @@ Please submit a PR with your slides in a subdirectory named like this:
 | Timeslot    | Speaker     | Slide Deck | Video | Source |
 | ----------- | ----------- | ---------- | ----- | ------ |
 | 11:45 AM - 12:30 PM |[Jon Bodner](https://github.com/jonbodner) | [Runtime Generated, Typesafe, and Declarative -- Pick any Three](https://github.com/jonbodner/proteus-talk/raw/master/Proteus%20Talk%20slides%20embiggened.pdf)  | | [Source](https://github.com/jonbodner/proteus-talk) |
-| 2:00 PM - 2:45 PM | [Aaron Schlesinger](https://github.com/arschles) | [Functional Programming in Go](/Users/danielapetruzalek/Development/2017-talks/AaronSchlesinger-FunctionalProgrammingInGo) | | |
+| 2:00 PM - 2:45 PM | [Aaron Schlesinger](https://github.com/arschles) | [Functional Programming in Go](AaronSchlesinger-FunctionalProgrammingInGo) | | |
 | 2:55 PM - 3:40 PM | [Michael Hausenblas](https://github.com/mhausenblas) | [Fallacies Of Distributed Gomputing](http://go-talks.appspot.com/github.com/mhausenblas/fallacies-of-distributed-gomputing/main.slide#1) | | [Source](https://github.com/mhausenblas/fallacies-of-distributed-gomputing) |
 
 #### Ballroom 1D
