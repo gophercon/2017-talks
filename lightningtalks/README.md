@@ -16,7 +16,7 @@
 | Aditya Mukerjee | Translating Go to Other (Human) Languages, and Back Again | [Video](https://www.youtube.com/watch?v=oDFerBdr2J0&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=14) |
 | Carolyn Van Slyck | [go dep in 10 minutes](CarolynVanSlyck-DepIn10/) | [Video](https://www.youtube.com/watch?v=eZwR8qr2BfI&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=16) |
 | Marcin Spoczyski | Anomaly Detection in Go | [Video](https://www.youtube.com/watch?v=nz3Fd6vQupg&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=28) |
-| Owen Ou | Godzilla: a ES2015 to Go source code transpiler and runtime | [Video](https://www.youtube.com/watch?v=zSW0nKArIvU&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=19) |
+| Owen Ou | [Godzilla: a ES2015 to Go source code transpiler and runtime](https://docs.google.com/presentation/d/1dhxff8FzlnDMJhOIch49J5jXUyUQxarJ20p27kEVKAg/edit?usp=sharing) | [Video](https://www.youtube.com/watch?v=zSW0nKArIvU&list=PL2ntRZ1ySWBfhRZj3BDOrKdHzoafHsKHU&index=19) |
 
 ## Block 2: 1:30 PM - 3:00 PM
 
